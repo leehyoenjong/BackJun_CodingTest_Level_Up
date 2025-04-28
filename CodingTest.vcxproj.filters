@@ -15,13 +15,16 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="사칙연산.cpp">
+    <ClCompile Include="num_10869.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="홈페이지.cpp">
+    <ClCompile Include="num_10926.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="year.cpp">
+    <ClCompile Include="num_18108.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="num_10430.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>
