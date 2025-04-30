@@ -1,6 +1,6 @@
-﻿public class Program
+﻿public class num_2588
 {
-    public static void Main()
+    public void Main()
     {
         int value1 = Convert.ToInt32(Console.ReadLine());
         int value2 = Convert.ToInt32(Console.ReadLine());
