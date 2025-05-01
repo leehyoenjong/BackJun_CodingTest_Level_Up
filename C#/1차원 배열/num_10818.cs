@@ -1,6 +1,6 @@
 public class num_10818
 {
-    public static void Main()
+    public void Main()
     {
         Arr();
         List();
