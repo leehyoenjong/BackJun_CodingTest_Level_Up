@@ -1,6 +1,6 @@
 public class num_2884
 {
-    public void Main()
+    public void mains()
     {
         string[] input = Console.ReadLine().Split();
 

@@ -1,6 +1,6 @@
 public class num_2753
 {
-    public void Main()
+    public void mains()
     {
         int year = Convert.ToInt32(Console.ReadLine());
 

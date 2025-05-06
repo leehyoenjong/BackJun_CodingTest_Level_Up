@@ -1,6 +1,6 @@
 public class num_10807
 {
-    public void Main()
+    public void mains()
     {
         int max = Convert.ToInt32(Console.ReadLine());
         string[] input = Console.ReadLine().Split();

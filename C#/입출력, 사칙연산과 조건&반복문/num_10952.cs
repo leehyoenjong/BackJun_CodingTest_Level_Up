@@ -2,7 +2,7 @@ using System.Text;
 
 public class num_10952
 {
-    public void Main()
+    public void mains()
     {
         StringBuilder result = new StringBuilder();
         while (true)

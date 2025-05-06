@@ -2,7 +2,7 @@ using System.Text;
 
 public class num_15552
 {
-    public void Main()
+    public void mains()
     {
         var max = Convert.ToInt32(Console.ReadLine());
         StringBuilder stringBuilder = new StringBuilder();

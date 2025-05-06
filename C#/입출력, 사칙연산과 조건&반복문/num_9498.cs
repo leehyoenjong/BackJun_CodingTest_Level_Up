@@ -1,6 +1,6 @@
 public class num_9498
 {
-    public void Main()
+    public void mains()
     {
         int value1 = Convert.ToInt32(Console.ReadLine());
 

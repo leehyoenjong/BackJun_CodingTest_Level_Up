@@ -1,6 +1,6 @@
 class num_24262
 {
-    void Main()
+    void mains()
     {
         int n = int.Parse(Console.ReadLine());
 

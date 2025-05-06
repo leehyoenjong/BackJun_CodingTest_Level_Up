@@ -1,11 +1,8 @@
 class num_2231
 {
-    static void Main()
+    void mains()
     {
         int N = Convert.ToInt32(Console.ReadLine());
-
-        
-        Console.WriteLine(result);
     }
 
     /*

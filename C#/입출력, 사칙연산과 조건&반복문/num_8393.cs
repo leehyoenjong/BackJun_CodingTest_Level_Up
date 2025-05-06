@@ -1,6 +1,6 @@
 public class num_8393
 {
-    public void Main()
+    public void mains()
     {
         int value = Convert.ToInt32(Console.ReadLine());
         int max = value;

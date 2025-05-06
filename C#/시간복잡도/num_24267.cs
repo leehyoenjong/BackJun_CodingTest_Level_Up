@@ -1,6 +1,6 @@
 class num_24267
 {
-    static void Main()
+    static void mains()
     {
         long n = long.Parse(Console.ReadLine());
 

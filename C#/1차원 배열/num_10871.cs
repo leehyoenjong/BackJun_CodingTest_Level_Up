@@ -2,7 +2,7 @@ using System.Text;
 
 public class num_10871
 {
-    public void Main()
+    public void mains()
     {
         string[] input = Console.ReadLine().Split();
         int N = int.Parse(input[0]);

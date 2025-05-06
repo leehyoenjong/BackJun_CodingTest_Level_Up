@@ -3,7 +3,7 @@ using System.Text;
 
 public class num_10951
 {
-    public void Main()
+    public void mains()
     {
         StringBuilder result = new StringBuilder();
 

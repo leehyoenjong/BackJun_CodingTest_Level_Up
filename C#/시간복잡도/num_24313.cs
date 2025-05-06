@@ -1,6 +1,6 @@
 class num_24313
 {
-    void Main()
+    void mains()
     {
         string[] input = Console.ReadLine().Split();
         int a1 = int.Parse(input[0]);

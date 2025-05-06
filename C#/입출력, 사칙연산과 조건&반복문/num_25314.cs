@@ -2,7 +2,7 @@ using System.Text;
 
 public class num_25314
 {
-    public void Main()
+    public void mains()
     {
         var input = Convert.ToInt32(Console.ReadLine());
 
