@@ -15,7 +15,7 @@
 
 class num_11404
 {
-    static void Main(string[] args)
+    static void Mains(string[] args)
     {
         var sr = new StreamReader(Console.OpenStandardInput());
         var sw = new StreamWriter(Console.OpenStandardOutput());
